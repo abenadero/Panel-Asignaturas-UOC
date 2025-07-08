@@ -25,7 +25,12 @@ Puedes modificar la hoja a tu gusto: cambiar colores, añadir nuevas asignaturas
 
 ## 🔓 Licencia
 
-Este proyecto es **open source** y se distribuye bajo la **Licencia MIT**, lo que significa que puedes usarlo, modificarlo y compartirlo libremente.
+Este proyecto (archivo `.ods`) está licenciado bajo los términos de **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**.
+
+Esto significa que puedes copiarlo, modificarlo y compartirlo, incluso con fines comerciales, **siempre que atribuyas al autor original ([@abenadero](https://github.com/abenadero)) y compartas cualquier obra derivada bajo la misma licencia**.
+
+🔗 [Ver la licencia completa](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 ---
 
